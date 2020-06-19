@@ -1,2 +1,2 @@
 Project for Youtube video:
-ViewPager2 with Navigation Component - Onboarding Screens | Android Studio Tutorial
+Custom Transition Animations with Navigation Component | Android Studio Tutorial
